@@ -1,0 +1,55 @@
+p {
+    color: saddlebrown;
+}
+#page-title{
+    text-shadow: 4px 4px magenta;
+    margin: 40px;
+}
+h1{
+    color:  darkgoldenrod;
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+.favorite-section{
+    border: 5px black solid;
+    margin: 5px;
+    padding: 5px;
+
+}
+li{
+    margin-left: 50px;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background: gray;
+    width: 200px;
+}
+tr{
+    background: coral;
+    width: fit-content;
+}
+
+#favorite-movie-title{
+    font-style: italic;
+    color: darkgreen;
+}
+#favorite-music-name{
+    font: bold;
+    color: darkgreen;
+}
+#most-favorite-food{
+    font-style: oblique;
+    color: orangered;
+}
+.favorite-image{
+    height:auto;
+    BORDER-radius: 50%
+
+}
